@@ -14,5 +14,7 @@ To develop a software for a student who can view and manage the events happening
 
 ## My contribution
 The login and signup page.
+
 Home page refining.
+
 Color palette selection.
