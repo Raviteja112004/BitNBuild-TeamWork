@@ -11,3 +11,8 @@ BitNBuild is a annual level hackathon hosted by Google Developer Students Club. 
 
 ## Problem Statement 
 To develop a software for a student who can view and manage the events happening in the college.
+
+## My contribution
+The login and signup page.
+Home page refining.
+Color palette selection.
